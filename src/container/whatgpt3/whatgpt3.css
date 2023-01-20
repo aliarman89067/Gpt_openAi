@@ -1,0 +1,47 @@
+.gpt3__wgpt3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-footer);
+    padding: 3rem;
+    margin:0 6rem;
+    border-radius: 5px;
+}
+.gpt3__wgpt3-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.gpt3__wgpt3-whatgpt3 .gpt3__brand-feature{
+    flex-direction: row;
+    margin-bottom: 4rem;
+}
+.gpt3__wgpt3-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 4rem;
+}
+.gpt3__wgpt3-heading h1{
+    font-family:var(--font-family);
+    font-size: 34px;
+    font-weight: 800;
+    line-height: 45px;
+    letter-spacing: 0em;
+    max-width: 500px;
+}
+.gpt3__wgpt3-heading p{
+    font-family: var(--font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: end;
+    color: #FF8A71;
+    cursor: pointer;
+}
+.gpt3__wgpt3-three-section{
+    display: flex;
+}
